@@ -1,0 +1,15 @@
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\bin\Debug\net8.0\LeetCodePractices.exe
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\bin\Debug\net8.0\LeetCodePractices.deps.json
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\bin\Debug\net8.0\LeetCodePractices.runtimeconfig.json
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\bin\Debug\net8.0\LeetCodePractices.dll
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\bin\Debug\net8.0\LeetCodePractices.pdb
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\obj\Debug\net8.0\LeetCodePractices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\obj\Debug\net8.0\LeetCodePractices.AssemblyInfoInputs.cache
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\obj\Debug\net8.0\LeetCodePractices.AssemblyInfo.cs
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\obj\Debug\net8.0\LeetCodePractices.csproj.CoreCompileInputs.cache
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\obj\Debug\net8.0\LeetCodePractices.dll
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\obj\Debug\net8.0\refint\LeetCodePractices.dll
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\obj\Debug\net8.0\LeetCodePractices.pdb
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\obj\Debug\net8.0\LeetCodePractices.genruntimeconfig.cache
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\obj\Debug\net8.0\ref\LeetCodePractices.dll
+C:\Users\SAI\OneDrive\Desktop\Sai_Learnings\DotNet Core\LeetCodePractices\LeetCodePractices\obj\Debug\net8.0\LeetCodePractices.sourcelink.json

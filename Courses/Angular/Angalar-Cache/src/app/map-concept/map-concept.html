@@ -1,0 +1,13 @@
+<p>map-concept works!</p>
+
+<button (click)="insertData()">Add Data to Map</button>
+<button (click)="readData()">Get Data from Map</button>  
+<button (click)="clearMap()">Clear Map</button>
+<button (click)="deleteData()">Delete Data from Map</button>
+<button (click)="iterateDatainMap()">iterateData</button>
+@if(iterate){
+    <div>data in Map</div>
+     @for (entry of MapDataEntries; track entry[0]) {
+        <p>{{ entry[0] }} : {{ entry[1] }}</p>
+      }
+}

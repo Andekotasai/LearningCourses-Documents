@@ -1,0 +1,27 @@
+<p>template-driven works!</p>
+
+<form #user="ngForm">
+    <div>
+        <label for="name">Name:</label>
+         <input type="text" id="name" name="name" ngModel>
+    </div>
+    <!-- <div>
+        <label for="firstname">FirstName:</label>
+         <input type="text" id="firstname" name="firstname" ngModel>
+    </div> -->
+    <div>
+        <label for="gender">Gender</label>
+        <select id="gender" name="gender" ngModel >
+            <option value="">--select Gender--</option>
+            <option *ngFor="let val of genderOptions" [value]="val">{{val}}</option>
+        </select>
+    </div>
+    <div>
+        <label for="age">Age:</label>
+         <input type="number" id="age" name="age" ngModel>
+    </div>
+    <div>
+        <button type="submit" (click)="DataSubmit(user)">Submit</button>
+    </div>
+
+</form>

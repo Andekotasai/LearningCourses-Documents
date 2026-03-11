@@ -1,0 +1,10 @@
+<p>two-way-binding-child-signal works!</p>
+
+
+@if(value()!==undefined && value()!=='' && value()!==null) {
+<p>Value from parent: {{value()}}</p>
+<input type="text" [value]="value()" #text />
+<button (click)="dataEmit(text)">Change Value in Child</button>
+}
+
+

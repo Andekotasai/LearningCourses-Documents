@@ -1,0 +1,17 @@
+<p>two-way-binding-signal works!</p>
+
+<!-- <input type="text" #input  />
+
+<button (click)="setValue(input)">setValue</button>
+
+<app-two-way-binding-child-signal [value]="data" (valueChanges)="dataFromChild($event)">
+</app-two-way-binding-child-signal> -->
+
+
+<input type="text" #input [value]="parentInputValue()" (change)="valueChanges($event)" />
+
+<button >setValue</button>
+
+<app-two-way-binding-child-signal [value]="parentInputValue()" (valueChanges)="dataFromChild($event)">
+</app-two-way-binding-child-signal>
+
